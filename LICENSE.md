@@ -1,4 +1,4 @@
-# 
+# Élite CodeSynth descargador. Descarga e instala con modo sin conexión y aceleración por GPU — rápido, seguro y fácil de usar.
 
 
 
